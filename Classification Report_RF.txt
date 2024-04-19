@@ -1,0 +1,11 @@
+Classification Report:
+                 precision    recall  f1-score   support
+
+          drive       0.92      0.87      0.89       191
+legglance-flick       0.84      0.87      0.86       167
+       pullshot       0.88      0.86      0.87       162
+          sweep       0.88      0.94      0.91       143
+
+       accuracy                           0.88       663
+      macro avg       0.88      0.88      0.88       663
+   weighted avg       0.88      0.88      0.88       663
