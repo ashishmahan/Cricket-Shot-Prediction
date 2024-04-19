@@ -16,7 +16,6 @@ Random Forest Classifier: The extracted pose keypoints are used as features for 
 The system provides visualizations of the detected pose keypoints overlaid on the input images, allowing users to see the points of interest used for classification.
 
 I have taken the dataset from Kaggle. This dataset is a collection of images from the internet.
-General Information:
 The directory drives consists of the cover drive, straight drive and off drive.
 The directory legglance-flick contains the images for the leg glance and flick shot.
 The directory pullshot has the images for pull shot.
